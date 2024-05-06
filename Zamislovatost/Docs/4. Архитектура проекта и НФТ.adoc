@@ -141,7 +141,7 @@ Event-Driven Architecture (EDA), в зависимости от конкретн
 
 Шеф-повар работает через web-интерфейс сервиса управления консультация
 
-image:Picture/EDA.png[image,width=385,height=457]
+image:Zamislovatost/Docs/Picture/EDA.png[image,width=385,height=457]
 
 [arabic]
 . *События:*
