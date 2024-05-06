@@ -50,8 +50,8 @@
 === 
 
 === Диаграмма контекста
-
-image:Picture/Context1.png[image,width=971,height=532]
+link:[Diagrams/С4 - 1 контекст.graphml]
+image:Picture/С4 - 1 контекст.jpg[image,width=971,height=532]
 
 *Диаграмма контейнеров для системы сбора требований:*
 
@@ -93,8 +93,8 @@ API обеспечивает возможность передачи и обра
 понимание ее архитектуры и взаимодействия между компонентами.
 
 === Диаграмма контейнеров
-
-image:Picture/Container1.png[image,width=971,height=622]
+link:[Diagrams/С4 - 2 Контейнеры.graphml]
+image:Picture/С4 - 2 Контейнеры[image,width=971,height=622]
 
 Для реализации архитектуры описанного выше процесса создания нового
 блюда в ресторане, можно воспользоваться комбинацией методологий, таких
@@ -691,4 +691,5 @@ a|
 
 === Архитектура с учетом НФТ
 
-image:Picture/Context2_NFT.png[image,width=841,height=543]
+link:[Diagrams/С4 - 2 Контейнеры + НФТ.graphml]
+image:Picture/С4 - 2 Контейнеры + НФТ.jpg[image,width=971,height=622]

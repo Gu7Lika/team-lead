@@ -60,7 +60,7 @@
 приложениями
 
 ==== Матрица вероятности проявления и влияния рисков
-
+link:[https://docs.google.com/spreadsheets/d/1CavliK6mhu5ZBy7saCgHaDLQWKeWdiWm3dvUp30glxU/edit#gid=734455927]
 image:Picture/image1.png[image,width=642,height=334]
 
 Согласно данной матрице самая высокая веротность с большим влиянием у риска появления багов и ошибок.
