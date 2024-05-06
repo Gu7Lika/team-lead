@@ -51,7 +51,9 @@
 
 === Диаграмма контекста
 link:[Diagrams/С4 - 1 контекст.graphml]
-image:Picture/С4 - 1 контекст.jpg[image,width=971,height=532]
+
+
+image:team-lead/Zamislovatost/Docs/Picture/С4 - 1 контекст.jpg[image,width=971,height=532]
 
 *Диаграмма контейнеров для системы сбора требований:*
 
@@ -94,7 +96,9 @@ API обеспечивает возможность передачи и обра
 
 === Диаграмма контейнеров
 link:[Diagrams/С4 - 2 Контейнеры.graphml]
-image:Picture/С4 - 2 Контейнеры[image,width=971,height=622]
+
+
+image:team-lead/Zamislovatost/Docs/Picture/С4 - 2 Контейнеры[image,width=971,height=622]
 
 Для реализации архитектуры описанного выше процесса создания нового
 блюда в ресторане, можно воспользоваться комбинацией методологий, таких
@@ -141,7 +145,7 @@ Event-Driven Architecture (EDA), в зависимости от конкретн
 
 Шеф-повар работает через web-интерфейс сервиса управления консультация
 
-image:Zamislovatost/Docs/Picture/EDA.png[image,width=385,height=457]
+image:team-lead/Zamislovatost/Docs/Picture/EDA.png[image,width=385,height=457]
 
 [arabic]
 . *События:*
@@ -692,4 +696,5 @@ a|
 === Архитектура с учетом НФТ
 
 link:[Diagrams/С4 - 2 Контейнеры + НФТ.graphml]
-image:Picture/С4 - 2 Контейнеры + НФТ.jpg[image,width=971,height=622]
+
+image:team-lead/Zamislovatost/Docs/Picture/С4 - 2 Контейнеры + НФТ.jpg[image,width=971,height=622]
